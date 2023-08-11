@@ -5,6 +5,8 @@
 [![open issues](http://img.shields.io/github/issues/BTMorton%2Fangular2-grid.svg)](https://github.com/BTMorton/angular2-grid/issues)
 [![Chat on Gitter](https://img.shields.io/gitter/room/angular2grid/lobby.svg)](https://gitter.im/angular2grid/Lobby)
 
+Hello, this is a test string.
+
 # Angular 2 Grid
 Angular 2 grid is a drag/drop/resize grid-based plugin directive for [Angular 2](http://angular.io).
 The demo included in this repo follows the [Angular 2 quick start](https://angular.io/docs/js/latest/quickstart.html)
