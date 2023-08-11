@@ -1,3 +1,4 @@
+Hello, this is a test string.
 [![GitHub version](http://img.shields.io/github/release/BTMorton%2Fangular2-grid.svg)](https://github.com/BTMorton/angular2-grid)
 [![npm version](http://img.shields.io/npm/v/angular2-grid.svg)](https://www.npmjs.com/package/angular2-grid)
 [![bower version](http://img.shields.io/bower/v/angular2-grid.svg)](https://libraries.io/bower/angular2-grid)
